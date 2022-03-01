@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account and testimony of Samuel Browne, concerning his dear mother Sarah Browne, widow, who departed this life at his house in Leicester the 30th of the 9th month, 1693.</title>
+            <author>Browne, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01813</idno>
+            <idno type="STC">Wing B5149</idno>
+            <idno type="STC">ESTC R170844</idno>
+            <idno type="EEBO-CITATION">49520844</idno>
+            <idno type="OCLC">ocm 49520844</idno>
+            <idno type="VID">174088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174088)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2663:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account and testimony of Samuel Browne, concerning his dear mother Sarah Browne, widow, who departed this life at his house in Leicester the 30th of the 9th month, 1693.</title>
+                  <author>Browne, Samuel.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Browne, Sarah.</term>
+               <term>Religious biography --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="eulogy">
+            <pb n="1" facs="tcp:174088:1" rendition="simple:additions"/>
+            <head>An Account and Teſtimony OF <hi>Samuel Browne,</hi> Concerning his dear MOTHER Sarah Browne, Widow, Who departed this Life at his Houſe in <hi>Leiceſter</hi> the 30th of the 9th Month, 1693.</head>
+            <p>HAving ſomething in my Heart to leave upon Record, as a Teſtimony unto the Memory of my Honoured Mother, and
+<pb n="2" facs="tcp:174088:2"/> of the Goodneſs of our God unto her, I could not well be clear until I had put Pen to Pa<g ref="char:EOLhyphen"/>per, as followeth.</p>
+            <p>She was born in <hi>Loughbor<g ref="char:EOLhyphen"/>ough</hi> in the County of <hi>Leiceſter</hi> of honeſt Parents; who gave her a Sober Education, being aged near 83. She was a Woman who in the Courſe of her Life was deeply exerciſed with many Difficulties and great Tribulations, ſo that it may be truly ſaid of her, <hi>That ſhe was a Woman of Sorrows, and well acquainted with Griefs,</hi> But through all her Tryals in<g ref="char:EOLhyphen"/>ward and outward, her Rely<g ref="char:EOLhyphen"/>ance was upon the Lord her God: Who in his infi<g ref="char:EOLhyphen"/>nite Mercy, in his own due
+<pb n="3" facs="tcp:174088:2"/> time delivered her out of all her Troubles, for which ſhe often praiſed and magnified his holy, excellent and great Name.</p>
+            <p>She ſought the Lord earn<g ref="char:EOLhyphen"/>eſtly and ſincerely in her ten<g ref="char:EOLhyphen"/>der years, uſing to frequent the Aſſemblies of the ſobereſt People in that Day, which were called <hi>Separates</hi> or <hi>Puritans,</hi> &amp;c. And when the People called <hi>Baptiſts</hi> appeared, ſhe ſearch'd into their Principles, even as the Noble <hi>Bereans</hi> did, with real purpoſe to find that way to walk in, in which ſhe might have Peace with God, and Salvation for her weary and mournful Soul; and with them ſhe joyned ſeveral Years, walking ſo inoffenſively, that
+<pb facs="tcp:174088:3"/>
+               <pb n="2" facs="tcp:174088:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:174088:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:174088:5"/> ſhe gained a good Eſteem a<g ref="char:EOLhyphen"/>mong them. During which Communion ſhe often receiv'd the Publick Members of that Society, duly adminiſtring her Charity as occaſion. But in the fulneſs of Time God having fitted and prepared a People in the Northern Parts of this Nation, whom the World in Scorn call'd <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> to whom the Lord had reveal'd his Holy Will and Way of Life and Salvation, and given them Commiſſion to publiſh his Everlaſting Go<g ref="char:EOLhyphen"/>ſpel-day. When they came ſhe received them and their Teſtimony with great Joy and Thankfulneſs unto the Lord, and became as a Nurſing-Mother among them: And
+<pb n="5" facs="tcp:174088:5"/> my dear Father, at her requeſt gave up his Houſe for her Friends to keep Meetings in, even in the Morning of that Bleſſed Day, ſhe account<g ref="char:EOLhyphen"/>ing nothing too dear to part with for the Truth's Sake. She walked ſo lovingly, ſober<g ref="char:EOLhyphen"/>ly and humbly with them, and ſo inoffenſively, that ſhe had the Love of all good Friends that were acquainted with her being a good Example of Tem<g ref="char:EOLhyphen"/>perance, Meekneſs and Cha<g ref="char:EOLhyphen"/>rity, towards thoſe with whom ſhe was concerned. She was dutiful to her Parents in their time, a true and loving Wife to her Husband in his Day, even unſpotted of the World. She was a tender Mother to me and mine, living with us
+<pb n="6" facs="tcp:174088:6"/> near twenty Years, in her Widowhood. She truly lov<g ref="char:EOLhyphen"/>ed all her Relations, and was a good Neighbour and firm Friend, having a Word of Comfort in due Seaſon to ma<g ref="char:EOLhyphen"/>ny, when in Afflictions; and often exhorted her Offspring to fear God, and to <hi>remember their Creator in the Days of their Youth,</hi> and to do their Duty both to God and Man; telling them, That then the Lord would bleſs them.</p>
+            <p>She was taken in the Night-Seaſon (with a violent Pain in her Legs) on the 6th Day of the Week, and deceaſed the next 5th Day. I was imme<g ref="char:EOLhyphen"/>diately called to her, ſhe de<g ref="char:EOLhyphen"/>ſiring the Lord to mitigate the Violence of her Pain, and to
+<pb n="7" facs="tcp:174088:6"/> give her Strength to bear his Hand with Patience.</p>
+            <p>I was much grieved for her<g ref="char:punc">▪</g> which ſhe perceiving, ſaid <hi>Child, do not do ſo, rejoyce and be glad, for thou haſt no other cauſe: Thou haſt been a dutiful and loving Son to me, even un<g ref="char:EOLhyphen"/>to the full.</hi> And the Lord vi<g ref="char:EOLhyphen"/>ſited my Soul with his heaven<g ref="char:EOLhyphen"/>ly Power and Divine Preſence, and gave me a living Senſe of his everlaſting Love unto her, and made me willing to give her up into his good Hand, to do with her, as to Life or Death, as he pleaſed; the which I was never able to do before; for which my Soul hath cauſe to bleſs his holy Name. And the Lord had regard unto her, when ſhe cryed unto him, and
+<pb n="8" facs="tcp:174088:7"/> in a ſhort Time took away the Violence of her Pain, and ſhe magnified his Mercy and Goodneſs unto her; ſpeaking of his great Mercy and Favour to her all her Life long, to the great and mutual Comfort of me, my dear Wife and Chil<g ref="char:EOLhyphen"/>dren, who were exerciſed du<g ref="char:EOLhyphen"/>ring the time of her Weak<g ref="char:EOLhyphen"/>neſs with great Care, Tender<g ref="char:EOLhyphen"/>neſs and Dutiful Affections towards her: Which ſhe perceived and was well plea<g ref="char:EOLhyphen"/>ſed with, ſaying: <hi>The Lord bleſs thee and thine for thy Love and Duty unto me, for I do rejoyce that thou waſt born unto me.</hi> She particularly took no<g ref="char:EOLhyphen"/>tice of my dear Wife's Dili<g ref="char:EOLhyphen"/>gence, Duty and tender Care towards her in the time of her
+<pb n="9" facs="tcp:174088:7"/> Weakneſs, ſaying; <hi>Daughter, thou promiſedſt to take Care of me when Weakneſs ſhould ap<g ref="char:EOLhyphen"/>proach, and now thou art as good as thy Word: The Lord bleſs thee and thine for all your love to me.</hi>
+            </p>
+            <p>And her ſweetneſs of Tem<g ref="char:EOLhyphen"/>per and Gratitude was ſuch, that ſhe returned her Thank<g ref="char:EOLhyphen"/>fulneſs to my honeſt Servant, <hi>Joſeph Hardy,</hi> for his Kindneſs and Readineſs to ſerve her at all times. And in a deep Senſe of the Love of the Lord to her, ſhe uttered theſe Words, <hi>O Lord guide thy poor Hand<g ref="char:EOLhyphen"/>maid by thy pure Eye into thy everlaſting Kingdom, where I may ſing</hi> Allelujas <hi>to thee for ever.</hi>
+            </p>
+            <pb n="10" facs="tcp:174088:8"/>
+            <p>She deſigned her Interment at <hi>Barrough upon Sore;</hi> but 2 Days before her Departure gave Orders to me to lay her Body in our Burying Place in <hi>Leiceſter</hi> by her Grand-Chil<g ref="char:EOLhyphen"/>dren; which was done ac<g ref="char:EOLhyphen"/>cordingly upon the firſt of the 10th Month, 1693.</p>
+            <p>And now what ſhall I ſay of thee my dear Mother? thou art taken from me, even in a good old Age: Thy Me<g ref="char:EOLhyphen"/>mory is ſweet unto me, thou waſt one that in thy Day didſt truly love thy God and his People, highly eſteeming them that walked wiſely, who loved the Proſperity of <hi>Sion;</hi> and thou pitiedſt them who were Enemies to their own Happi<g ref="char:EOLhyphen"/>neſs: Thou lovedſt to viſit the
+<pb n="11" facs="tcp:174088:8"/> Widow and Fatherleſs, the Priſoners and the Houſe of Mourning, to Feed the Hun<g ref="char:EOLhyphen"/>gry, Cloath the Naked, and waſh the Saints Feet; and of<g ref="char:EOLhyphen"/>ten lamentedſt the Calamities of Mankind, and wert for preferring others before thy ſelf: Thou gaveſt thy Body to the Priſon, and thy Goods to the Spoiler, counting all as Droſs and Dung, that thou mighteſt win Chriſt. Thou waſt a diligent frequenter of the Meetings of Friends in thy Day, and lovedſt the good Order of Truth among them. Thou receivedſt the Meſſenger of Death with contentedneſs, committing thy ſelf to the Lord thy God, being ſweet<g ref="char:EOLhyphen"/>ly given up to his good Will
+<pb n="12" facs="tcp:174088:9"/> and Pleaſure, thou finiſhedſt thy Courſe with Joy, and reſt<g ref="char:EOLhyphen"/>eſt from thy Labours, and art entred into everlaſting Happi<g ref="char:EOLhyphen"/>neſs and thy Works follow thee; for which my Soul doth magnifie the holy Name of the Lord my God for ever<g ref="char:EOLhyphen"/>more.</p>
+            <closer>Amen.</closer>
+            <closer>
+               <signed>S. B.</signed>
+            </closer>
+         </div>
+         <div type="eulogy">
+            <pb n="13" facs="tcp:174088:9"/>
+            <p>THis I have to ſay of my dear Mother; She was a Woman of great Tempe<g ref="char:EOLhyphen"/>rance, full of Love, without Diſſimulation; no Whiſperer nor Backbiter; and as ſhe lov<g ref="char:EOLhyphen"/>ed the Lord, and deſired to live in his Fear from her Youth, ſo he honoured her with his heavenly Preſence and ſtood by her in the Hour of Death: Which, bleſſed be the Lord, I had a ſenſe of, and of her eternal Happineſs, to my great Comfort; which cauſed my Soul and Spirit to Rejoyce in the God of our Salvation, and I believe has received the An<g ref="char:EOLhyphen"/>ſwer of <hi>Well done thou good and
+<pb n="14" facs="tcp:174088:10"/> faithful Servant, and is entred into the Joy of the Lord,</hi> and according to her Deſires, will ſound high Praiſes and Alle<g ref="char:EOLhyphen"/>lujahs to him for ever and ever<g ref="char:EOLhyphen"/>more.</p>
+            <closer>
+               <signed>E. B.</signed>
+            </closer>
+         </div>
+         <div type="eulogy">
+            <head>The Teſtimony of <hi>Tho Pitſtow,</hi> concerning his ancient Friend <hi>Sarah Browne</hi> and his Wife <hi>Anne Pitſtow;</hi> with a ten<g ref="char:EOLhyphen"/>der Exhortation to Friends to be faithful to God.</head>
+            <p>
+               <hi>THe Name of the Righte<g ref="char:EOLhyphen"/>ous ſhall be had in ever<g ref="char:EOLhyphen"/>laſting Remembrance, but the Name of the Wicked ſhall rot.</hi>
+               <pb n="15" facs="tcp:174088:10"/> And this hath often been the Word of the Lord in my Heart, ſay unto the Righ<g ref="char:EOLhyphen"/>teous, It ſhall go well with them; but unto the Wicked, it ſhall go ill: And this I have ſeen in my Day, that when the Lord hath ſent his Meſſen<g ref="char:EOLhyphen"/>ger of Death to lay hold upon the Wicked and upon the Hy<g ref="char:EOLhyphen"/>pocrite, what Fear and Amaze<g ref="char:EOLhyphen"/>ment, Anguiſh and Tribula<g ref="char:EOLhyphen"/>tion hath been upon their Souls and Spirits? And again, on the other Hand, thoſe that have feared the Lord in their Day, and have wrought Righ<g ref="char:EOLhyphen"/>teouſneſs, they have been ac<g ref="char:EOLhyphen"/>cepted of the Lord, <hi>for behold the latter End of that Man is Peace;</hi> as it was with this our dear Friend <hi>Sarah Browne:</hi>
+               <pb n="16" facs="tcp:174088:11"/> For when I was ſent for unto her, I ſaid unto her, <hi>The Lord hath ſent his Meſſenger;</hi> ſhe made Anſwer, <hi>He was come:</hi> and I can truly ſay, She had U<g ref="char:EOLhyphen"/>nity with Death, for ſhe had nothing to do but to die, and the Cry of her Soul was, <hi>Lord give me an eaſie Paſſage;</hi> and the Lord heard her Cry, and anſwered the Deſires of her Soul, and ſweetned her Paſ<g ref="char:EOLhyphen"/>ſage with his bleſſed Preſence, that in a living Senſe thereof ſhe many times praiſed the Lord, and bleſt his Name for his Mercies, for they endure for ever. I need not ſay any thing of her Birth and Educa<g ref="char:EOLhyphen"/>tion, and Convincement, and Sufferings, becauſe her loving and dutiful Son hath already
+<pb n="17" facs="tcp:174088:11"/> touched upon thoſe things: But this I have to ſay, Ever ſince I have had Knowledge of of her, which is about 15 Years, I have had good Unity with her; She was a tender Woman, and like a Mother to me and mine: She always <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook Care of my dear Wife, in all her Extremity, as if ſhe had been her own Child (and I have this to ſay of my dear Wife, She well deſerved it, who lived and died as one of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord's Worthies, and had gained a good Report, as a ſweet Savour in the Hearts of Friends and others) to the great Joy and Comfort of my Soul. O the Victory that they <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>btain that be faithful unto God in their Day and Genera<g ref="char:EOLhyphen"/>tion,
+<pb n="18" facs="tcp:174088:12"/> as it is written, 1 <hi>Cor. 15. Death is ſwallowed up in Victory; O Death where is thy Sting, O Grave where is thy Vi<g ref="char:EOLhyphen"/>ctory? the Sting of Death is Sin, and the Strength of Sin is the Law; but Thanks be to God who hath given us the Victory, through our Lord Jeſus Chriſt:</hi> And this is that Crown that they enjoy that be faithful un<g ref="char:EOLhyphen"/>to God.</p>
+            <p>O my dear Friends that be convinced of God's bleſſed Truth, this is the Exhortation that ſprings in my Heart unto you: O live in the Truth and be inwardly exerciſed before the Lord in Living Deſires, to enjoy the Preſence of the Liv<g ref="char:EOLhyphen"/>ing God; for it is not a bare Profeſſion that will ſtand us in
+<pb n="19" facs="tcp:174088:12"/> ſtead, when Death looks us in the Face; but the inward Enjoyment of divine Refreſh<g ref="char:EOLhyphen"/>ments and inward Comforts from the preſence of the living God. This is that my Soul deſires above all other things, who truly deſires the everlaſt<g ref="char:EOLhyphen"/>ing Happineſs and well-being of the Souls of all People.</p>
+            <closer>
+               <signed>Thomas Pitſtow.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
